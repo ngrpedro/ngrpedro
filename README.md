@@ -1,4 +1,5 @@
-### Wellcome 👋
+### Ola, seja bem vindo 🖖🏳️‍🌈
+Veio do LinkedIn? Se não, da um pulinho por lá também! 
 
   <a href="https://www.linkedin.com/in/pedro-nogueira399/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
