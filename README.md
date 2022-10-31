@@ -1,4 +1,4 @@
-### Ola, seja bem vindo 🖖🏳️‍🌈
+### Olá, seja bem vindo 🖖🏳️‍🌈
 Veio do <a href="https://www.linkedin.com/in/pedro-nogueira399/" target="_blank">LinkedIn</a>? Se não, da um pulinho por lá também! 
 
  
