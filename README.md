@@ -9,6 +9,8 @@ Veio do <a href="https://www.linkedin.com/in/pedro-nogueira399/" target="_blank"
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<br/>
+<br/>
 
 Por aqui você encontra projetos meus projetos (frontend e backend). 
 Em sua maior parte projetos frontend, feitos com react (js/ts). 
