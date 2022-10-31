@@ -13,6 +13,7 @@ Veio do <a href="https://www.linkedin.com/in/pedro-nogueira399/" target="_blank"
 Por aqui você encontra projetos meus projetos (frontend e backend). 
 Em sua maior parte projetos frontend, feitos com react (js/ts). 
 Em relação à HTML e CSS busco usar frameworks que vão me trazer estabilidade e velocidade no desenvolvimento.
+<br/>
 
 Chakra UI, Tailwind CSS, Material UI, Bootstrap, Bulma, são alguns dos framewoks que costumo utilizar nos projetos!
 
