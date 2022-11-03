@@ -12,7 +12,7 @@ Veio do <a href="https://www.linkedin.com/in/pedro-nogueira399/" target="_blank"
 <br/>
 
 
-Por aqui você encontra projetos meus projetos (frontend e backend). 
+Por aqui você encontra meus projetos (frontend e backend). 
 Em sua maior parte projetos frontend, feitos com react (js/ts). 
 Em relação à HTML e CSS busco usar frameworks que vão me trazer estabilidade e velocidade no desenvolvimento.
 <br/>
